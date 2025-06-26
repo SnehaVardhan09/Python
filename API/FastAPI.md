@@ -20,4 +20,10 @@ API - appication programming interface - interface to application to manipulate 
 how data over api exchange? JSON
 fast api handles JSONifying all of our info
 
+Path parameters
+Query parameters - 
+"def get_item(name:str):
+#queryparamete"
 
+
+Request Body and POST method
